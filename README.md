@@ -1,5 +1,5 @@
 # IPL_2008-22_Dashboard
-<b font-color="Red">Admin-Divyansh Bhardwaj</b>
+<b text="Red">Admin-Divyansh Bhardwaj</b>
 <br>
 In this Dashboard all the IPL data from 2008 to 2022 is present.<br>
 Top performance by the players, total runs, top players from all seasons are available.<br>
