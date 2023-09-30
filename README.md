@@ -21,5 +21,5 @@ To download this dataset click - https://www.kaggle.com/datasets/vora1011/ipl-20
 For any questions or feedback, please contact the project maintainer:
 
 Name: Divyansh bhardwaj
-Email: imdivyansh24@gmail.com
+Email: imdivyansh24@gmail.com <br>
 <b text-size="50px">Happy exploring the IPL Power BI Dashboard! 🏏📊</b>
